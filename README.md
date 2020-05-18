@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-I am harmilan
+Just another repositoy
